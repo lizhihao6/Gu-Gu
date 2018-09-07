@@ -9,6 +9,9 @@
         "ostream": "cpp",
         "iostream": "cpp",
         "utility": "cpp",
-        "limits": "cpp"
+        "limits": "cpp",
+        "iosfwd": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp"
     }
 }
